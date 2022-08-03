@@ -1,0 +1,74 @@
+.homeTitle {
+    position: absolute;
+    width: 656.46px;
+    height: 164px;
+    left: 150px;
+    top: 431px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 57.0833px;
+    line-height: 82px;
+
+    color: #000000;
+    text-align: left;
+}
+
+.buttonBase {
+    background: #6FB6B4;
+    border-radius: 15px;
+}
+
+.buttonBaseOutlined {
+    background: #F0F3F1;
+    border: 1px solid #6FB6B4;
+    border-radius: 15px;
+}
+
+.homeDot1 {
+    position: absolute;
+    width: 141.61px;
+    height: 140px;
+    left: 1070px;
+    top: 0px;
+}
+
+.homeDot2 {
+    position: absolute;
+    width: 141.61px;
+    height: 140px;
+    left: -70px;
+    top: 953px;
+}
+
+.homeTextBack {
+    position: absolute;
+    width: 885px;
+    height: 328px;
+    left: 150px;
+    top: 1207px;
+    padding: 31px;
+    background: #FFFFFF;
+}
+
+.homeTextTitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+
+
+    color: #5F5A5A;
+}
+.homeTextBody {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.9655px;
+    line-height: 35px;
+
+    color: #747474;
+}
